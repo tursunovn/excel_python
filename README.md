@@ -1,3 +1,3 @@
-# excel_python
-This is my excel_python_bot data \
-new changes 
+created tg bot \
+with python file \
+on data extracting from excel file \
